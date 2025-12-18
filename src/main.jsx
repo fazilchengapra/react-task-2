@@ -20,8 +20,6 @@ const appRoute = createBrowserRouter([
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <UserContextProvider>
       <RouterProvider router={appRoute} />
-    </UserContextProvider>
   </StrictMode>
 );
