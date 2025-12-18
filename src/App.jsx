@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import BlogCard from "./BlogCard";
 import axios from "axios";
-import AddBlogForm from "./AddblogForm";
+import AddBlogForm from "./AddBlogForm";
 
 function App() {
   const [blogs, setBlogs] = useState([]);
