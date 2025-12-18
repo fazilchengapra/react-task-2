@@ -1,0 +1,37 @@
+{
+  "blogPosts": [
+    {
+      "id": "b1",
+      "title": "Understanding JavaScript Closures",
+      "slug": "understanding-javascript-closures",
+      "content": "A closure is the combination of a function and the lexical environment within which that function was declared...",
+      "authorId": "1",
+      "tags": [
+        "JavaScript",
+        "Functions"
+      ]
+    },
+    {
+      "id": "b2",
+      "title": "React useCallback Explained Simply",
+      "slug": "react-usecallback-explained",
+      "content": "useCallback is a React Hook that returns a memoized version of the callback function...",
+      "authorId": "3fae",
+      "tags": [
+        "React",
+        "Hooks"
+      ]
+    },
+    {
+      "id": "b3",
+      "title": "Difference Between useMemo and useCallback",
+      "slug": "usememo-vs-usecallback",
+      "content": "Both useMemo and useCallback help optimize performance in React applications...",
+      "authorId": "1",
+      "tags": [
+        "React",
+        "JavaScript"
+      ]
+    }
+  ]
+}
